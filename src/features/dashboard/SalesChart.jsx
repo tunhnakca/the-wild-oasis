@@ -23,8 +23,6 @@ const StyledSalesChart = styled(DashboardBox)`
   }
 `;
 
-const isDarkMode = true;
-
 function SalesChart({ bookings, numDays }) {
   const { isDarkMode } = useDarkMode();
 

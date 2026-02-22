@@ -46,7 +46,6 @@ This project was created while following [Jonas Schmedtmann’s Ultimate React C
 
 ## Screenshots
 
-```md
 ![Login Page](./screenshots/login.png)
 ![Dashboard](./screenshots/dashboard.png)
 ![Dashboard with Dark Mode](./screenshots/dashboard-dark-mode.png)
@@ -59,7 +58,6 @@ This project was created while following [Jonas Schmedtmann’s Ultimate React C
 ![User Account Management](./screenshots/user-account.png)
 ![Create New User](./screenshots/create-new-user.png)
 ![Settings](./screenshots/settings.png)
-```
 
 ## Project Structure
 
